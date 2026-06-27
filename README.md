@@ -27,6 +27,10 @@ If we use Multi-meter we can see the Connection will be Fine, If there was no Be
 
 Since in my case, It was a success. So, we gonna **Solder** the remaining Jumper wires to the MIC Then we move to next stage..
 
+It would look like this..
+<img width="720" height="1280" alt="IMG_20260624_234029_187" src="https://github.com/user-attachments/assets/9ed76fb0-f8fc-4152-8e64-da30fbf75b4b" />
+
+
 ## Stage 3 Testing the Speaker & MIC
 
 <img width="1920" height="1050" alt="image" src="https://github.com/user-attachments/assets/c239a37a-201f-45c6-bae3-b612bfb76baf" />
