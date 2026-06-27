@@ -1,5 +1,6 @@
 # RetroHackset
-<img width="720" height="1280" alt="Final_result" src="https://github.com/user-attachments/assets/5ceead1c-74aa-478e-80ed-5a282348b153" />
+<img width="757" height="710" alt="image" src="https://github.com/user-attachments/assets/37ebf37c-bb16-4095-80f6-065ca9892041" />
+
 
 
 **The Main Purpose of this Project was To Turn this Telephone Into a Headset to Record Guitar Riffs, And listen to Music Through it..**
