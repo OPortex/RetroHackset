@@ -15,7 +15,7 @@ we gotta cut the wires that connect them to the motherboard and Desolder it.
 
 ## Stage 2 is Soldering
 
-Now we will remove all the components except for Speaker and Mic, and **Solder** 2 Jumper wires to the Speaker and 2 Jumper Wires to the Mic, and Stretch the Out Through the RJ11 Gap. 
+Now we will remove all the components except for Speaker and Mic, and **Solder** 2 Jumper wires to the Speaker and 2 Jumper Wires to the Mic, and Stretch it Out Through the RJ11 Gap. 
 *It Would look like this..*
 <img width="720" height="1280" alt="IMG_20260624_175350_053" src="https://github.com/user-attachments/assets/d75afb4a-2c8e-43ed-b660-0157c51dc5ba" />
 
