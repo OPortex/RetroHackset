@@ -6,7 +6,7 @@
 **The Main Purpose of this Project was To Turn this Telephone Into a Headset to Record Guitar Riffs, And listen to Music Through it..**
 
 ## The Project Beginning stage was to examine the Telephone from the inside.
-When we Disassmble the Telephone we see in the upper side The speaker and 
+When we Dissamble the Telephone we see in the upper side The speaker and 
 on the bottom The Mic which is bellow the Hardware.
 <img width="720" height="1280" alt="IMG_20260624_152137_568" src="https://github.com/user-attachments/assets/03b52986-7381-43e7-95e0-08f21aa326b3" />
 
